@@ -23,7 +23,7 @@ repositories:
 
 website: "https://px.dev/"
 
-artwork: "https://landscape.cncf.io/logos/pixie.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/pixie"
 
 adopters:
   path: "https://github.com/pixie-io/pixie/blob/main/ADOPTERS.md"
